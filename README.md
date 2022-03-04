@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Full stack technologie
 - 💞️ I’m looking to collaborate on software field
 - 👍 Ask me about python and web development
-- 🔥 Fun fact: I spend almost 12 hours learning about new technologies.
+- 🔥 Fun fact: I spend almost learning about new technologies.
 - 🔗 How to reach me: linkedin[@veeramanikanta](https://www.linkedin.com/in/veera-manikanta-997b0720b),facebook[@manikantadev2](https://www.facebook.com/settings?tab=account&section=username),
 instagram[@manikantadev2](https://www.instagram.com/manikantadev2/)
 
