@@ -4,11 +4,11 @@
 
 - 👋 Hi, I’m @veeramanikanta18
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Full stack technologie
+- 🌱 I’m currently learning Full stack technologie MERN
 - 💞️ I’m looking to collaborate on software field
 - 👍 Ask me about python and web development
 - 🔥 Fun fact: I spend most of the time learning about new technologies.
-- 🔗 How to reach me: linkedin[@veeramanikanta](https://www.linkedin.com/in/veera-manikanta-997b0720b),facebook[@manikantadev2](https://www.facebook.com/settings?tab=account&section=username),instagram[@manikantadev2](https://www.instagram.com/manikantadev2/),stackoverflow[@manikantadev2](https://stackoverflow.com/users/18375454/veeramanikanta)
+- 🔗 How to reach me: linkedin:[@veeramanikanta](https://www.linkedin.com/in/veera-manikanta-997b0720b),facebook:[@manikantadev2](https://www.facebook.com/settings?tab=account&section=username),instagram:[@manikantadev2](https://www.instagram.com/manikantadev2/),stackoverflow:[@manikantadev2](https://stackoverflow.com/users/18375454/veeramanikanta)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
