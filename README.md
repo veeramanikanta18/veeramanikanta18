@@ -3,7 +3,7 @@
 </div><br>
 
 - 👋 Hi, I’m @veeramanikanta18
-- 👀 I’m interested in python
+- 👀 I’m interested in development
 - 🌱 I’m currently learning Full stack technologie MERN
 - 💞️ I’m looking to collaborate on software field
 - 👍 Ask me about python and web development
