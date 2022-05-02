@@ -16,7 +16,6 @@
 
 ## 🧰 Languages and Tools:
 <div>
-<img src="https://www.flaticon.com/free-icons/machine-learning" title="machine learning" alt="machine learning"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" title="jupyter" alt="jupyter"/>&nbsp;
