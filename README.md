@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div><br>
 
-- 👋 Hi, I’m @veeramanikanta18
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on software industries
-- 👍 Ask me about python,machine learning and front-end technologies
+- 👋 Hi, I’m @veeramanikanta18.
+- 👀 I’m interested in development.
+- 🌱 I’m currently learning Machine learning.
+- 💞️ I’m looking to collaborate on software industries.
+- 👍 Ask me about python,machine learning concepts.
 - 🔥 Fun fact: I spend most of the time learning about new technologies.
 - 🔗 How to reach me: linkedin:[@veeramanikanta](https://www.linkedin.com/in/veera-manikanta-997b0720b),facebook:[@manikantadev2](https://www.facebook.com/settings?tab=account&section=username),instagram:[@manikantadev2](https://www.instagram.com/manikantadev2/),stackoverflow:[@manikantadev2](https://stackoverflow.com/users/18375454/veeramanikanta)
 
