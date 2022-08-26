@@ -3,10 +3,10 @@
 </div><br>
 
 - 👋 Hi, I’m @veeramanikanta18.
-- 👀 I’m interested in development.
-- 🌱 I’m currently learning Machine learning.
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on software industries.
-- 👍 Ask me about python,machine learning concepts.
+- 👍 Ask me about python,Django concepts.
 - 🔥 Fun fact: I spend most of the time learning about new technologies.
 - 🔗 How to reach me: linkedin:[@veeramanikanta](https://www.linkedin.com/in/veera-manikanta-997b0720b),facebook:[@manikantadev2](https://www.facebook.com/settings?tab=account&section=username),instagram:[@manikantadev2](https://www.instagram.com/manikantadev2/),stackoverflow:[@manikantadev2](https://stackoverflow.com/users/18375454/veeramanikanta)
 
