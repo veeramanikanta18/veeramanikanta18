@@ -35,9 +35,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/> &nbsp;  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
 </div>
-## 🧰 contributions:
 
-<div>
-  https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
-</div>
 
